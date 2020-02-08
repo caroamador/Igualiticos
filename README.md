@@ -1,2 +1,0 @@
-# Igualiticos
-Created with CodeSandbox
